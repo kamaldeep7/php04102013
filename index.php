@@ -9,7 +9,8 @@ echo $_REQUEST['pass'];
 
 <html>
 <head>
-	<title>SAMPLE FORMs</title>
+
+	<title>Testing Github</title>
 </head>
 <body>
 	<form action="#" method="post">
