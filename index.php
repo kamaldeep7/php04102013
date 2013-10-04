@@ -9,7 +9,7 @@ echo $_REQUEST['pass'];
 
 <html>
 <head>
-	<title>Forms</title>
+	<title>SAMPLE FORM</title>
 </head>
 <body>
 	<form action="#" method="post">
