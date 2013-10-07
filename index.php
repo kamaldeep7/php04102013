@@ -10,7 +10,7 @@ echo $_REQUEST['pass'];
 <html>
 <head>
 
-	<title>Testing Github</title>
+	<title>Testing Githubssss</title>
 </head>
 <body>
 	<form action="#" method="post">
